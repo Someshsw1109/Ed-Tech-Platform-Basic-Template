@@ -14,7 +14,7 @@ Before you begin, ensure you have the following installed on your local machine:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/edtech-platform.git
+   git clone https://github.com/Someshsw1109/Ed-Tech-Platform-Basic-Template.git
    cd edtech-platform
    ```
 
